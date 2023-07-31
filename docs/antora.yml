@@ -1,0 +1,35 @@
+---
+asciidoc:
+  attributes:
+    prod-ver: 4
+    product-title: Red Hat OpenShift on AWS
+    product-version: 4
+name: rosa
+start_page: welcome:index.adoc
+title: Red Hat OpenShift on AWS
+version: "4"
+nav:
+  - modules/welcome/nav.adoc
+  - modules/rosa_release_notes/nav.adoc
+  - modules/rosa_architecture/nav.adoc
+  - modules/rosa_getting_started/nav.adoc
+  - modules/rosa_planning/nav.adoc
+  - modules/rosa_hcp/nav.adoc
+  - modules/rosa_install_access_delete_clusters/nav.adoc
+  - modules/cli_reference/nav.adoc
+  - modules/ocm/nav.adoc
+  - modules/rosa_cluster_admin/nav.adoc
+  - modules/authentication/nav.adoc
+  - modules/upgrading/nav.adoc
+  - modules/cicd/nav.adoc
+  - modules/adding_service_cluster/nav.adoc
+  - modules/storage/nav.adoc
+  - modules/registry/nav.adoc
+  - modules/networking/nav.adoc
+  - modules/applications/nav.adoc
+  - modules/rosa_backing_up_and_restoring_applications/nav.adoc
+  - modules/logging/nav.adoc
+  - modules/monitoring/nav.adoc
+  - modules/service_mesh/nav.adoc
+  - modules/serverless/nav.adoc
+  - modules/sd_support/nav.adoc

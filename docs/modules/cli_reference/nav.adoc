@@ -1,0 +1,27 @@
+.CLI tools
+* xref:index.adoc[CLI tools overview]
+* OpenShift CLI (oc)
+** xref:openshift_cli/getting-started-cli.adoc[Getting started with the OpenShift CLI]
+** xref:openshift_cli/configuring-cli.adoc[Configuring the OpenShift CLI]
+** xref:openshift_cli/usage-oc-kubectl.adoc[Usage of oc and kubectl commands]
+** xref:openshift_cli/managing-cli-profiles.adoc[Managing CLI profiles]
+** xref:openshift_cli/extending-cli-plugins.adoc[Extending the OpenShift CLI with plugins]
+** xref:openshift_cli/developer-cli-commands.adoc[OpenShift CLI developer command reference]
+** xref:openshift_cli/administrator-cli-commands.adoc[OpenShift CLI administrator command reference]
+* xref:odo-important-update.adoc[Developer CLI (odo)]
+* xref:kn-cli-tools.adoc[Knative CLI (kn) for use with OpenShift Serverless]
+* Pipelines CLI (tkn)
+** xref:tkn_cli/installing-tkn.adoc[Installing tkn]
+** xref:tkn_cli/op-configuring-tkn.adoc[Configuring tkn]
+** xref:tkn_cli/op-tkn-reference.adoc[Basic tkn commands]
+* opm CLI
+** xref:opm/cli-opm-install.adoc[Installing the opm CLI]
+** xref:opm/cli-opm-ref.adoc[opm CLI reference]
+* Operator SDK
+** xref:osdk/cli-osdk-install.adoc[Installing the Operator SDK CLI]
+** xref:osdk/cli-osdk-ref.adoc[Operator SDK CLI reference]
+* ROSA CLI
+** xref:rosa_cli/rosa-get-started-cli.adoc[Getting started with the ROSA CLI]
+** xref:rosa_cli/rosa-manage-objects-cli.adoc[Managing objects with the ROSA CLI]
+** xref:rosa_cli/rosa-checking-acct-version-cli.adoc[Checking account and version information with the ROSA CLI]
+** xref:rosa_cli/rosa-checking-logs-cli.adoc[Checking logs with the ROSA CLI]

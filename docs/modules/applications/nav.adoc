@@ -1,0 +1,3 @@
+.Application development
+* Deployments
+** xref:deployments/osd-config-custom-domains-applications.adoc[Custom domains for applications]

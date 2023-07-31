@@ -1,0 +1,3 @@
+.Serverless
+* About Serverless
+** xref:about/about-serverless.adoc[Serverless overview]

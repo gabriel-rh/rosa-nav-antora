@@ -1,0 +1,4 @@
+.Getting started
+* xref:rosa-quickstart-guide-ui.adoc[ROSA quickstart guide]
+* xref:rosa-getting-started.adoc[Comprehensive guide to getting started with ROSA]
+* xref:rosa-sts-getting-started-workflow.adoc[Understanding the ROSA with STS deployment workflow]

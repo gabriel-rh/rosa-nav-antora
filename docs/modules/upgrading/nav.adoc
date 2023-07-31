@@ -1,0 +1,5 @@
+.Upgrading
+* xref:rosa-upgrading-cluster-prepare.adoc[Preparing to upgrade ROSA to 4.9]
+* xref:rosa-upgrading-sts.adoc[Upgrading ROSA with STS]
+* xref:rosa-upgrading.adoc[Upgrading ROSA]
+* xref:rosa-hcp-upgrading.adoc[Upgrading ROSA with HCP]

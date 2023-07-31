@@ -1,0 +1,7 @@
+.Prepare your environment
+* xref:rosa-sts-aws-prereqs.adoc[AWS prerequisites for ROSA with STS]
+* xref:rosa-sts-ocm-role.adoc[ROSA IAM role resources]
+* xref:rosa-limits-scalability.adoc[Limits and scalability]
+* xref:rosa-planning-environment.adoc[Planning your environment]
+* xref:rosa-sts-required-aws-service-quotas.adoc[Required AWS service quotas]
+* xref:rosa-sts-setting-up-environment.adoc[Setting up your environment]

@@ -1,0 +1,3 @@
+.Install ROSA with HCP clusters
+* xref:rosa-hcp-sts-creating-a-cluster-quickly.adoc[Creating ROSA with HCP clusters using the default options]
+* xref:rosa-tuning-config.adoc[Using the Node Tuning Operator on ROSA with HCP]

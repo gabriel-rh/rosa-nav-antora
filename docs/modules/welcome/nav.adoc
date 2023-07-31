@@ -1,0 +1,3 @@
+.About
+* xref:index.adoc[Welcome]
+* xref:legal-notice.adoc[Legal notice]

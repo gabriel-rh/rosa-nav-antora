@@ -1,0 +1,13 @@
+.Storage
+* xref:index.adoc[Storage overview]
+* xref:understanding-ephemeral-storage.adoc[Understanding ephemeral storage]
+* xref:understanding-persistent-storage.adoc[Understanding persistent storage]
+* Configuring persistent storage
+** xref:persistent_storage/persistent-storage-aws.adoc[Persistent storage using AWS Elastic Block Store]
+* Using Container Storage Interface (CSI)
+** xref:container_storage_interface/persistent-storage-csi.adoc[Configuring CSI volumes]
+** xref:container_storage_interface/persistent-storage-csi-sc-manage.adoc[Managing the default storage class]
+** xref:container_storage_interface/persistent-storage-csi-ebs.adoc[AWS Elastic Block Store CSI Driver Operator]
+** xref:container_storage_interface/osd-persistent-storage-aws-efs-csi.adoc[AWS Elastic File Service CSI Driver Operator]
+* xref:generic-ephemeral-vols.adoc[Generic ephemeral volumes]
+* xref:dynamic-provisioning.adoc[Dynamic provisioning]

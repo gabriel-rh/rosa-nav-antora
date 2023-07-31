@@ -1,0 +1,2 @@
+.What's new
+* xref:rosa-release-notes.adoc[What's new with ROSA]

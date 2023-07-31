@@ -1,0 +1,11 @@
+.Cluster administration
+* Configuring private connections
+** xref:cloud_infrastructure_access/rosa-configuring-private-connections.adoc[Configuring private connections]
+** xref:cloud_infrastructure_access/dedicated-aws-peering.adoc[Configuring AWS VPC peering]
+** xref:cloud_infrastructure_access/dedicated-aws-vpn.adoc[Configuring AWS VPN]
+** xref:cloud_infrastructure_access/dedicated-aws-dc.adoc[Configuring AWS Direct Connect]
+* Nodes
+** xref:rosa_nodes/rosa-nodes-machinepools-about.adoc[About machine pools]
+** xref:rosa_nodes/rosa-managing-worker-nodes.adoc[Managing compute nodes]
+** xref:rosa_nodes/rosa-nodes-machinepools-configuring.adoc[Configuring machine pools in Local Zones]
+** xref:rosa_nodes/rosa-nodes-about-autoscaling-nodes.adoc[About autoscaling nodes on a cluster]
