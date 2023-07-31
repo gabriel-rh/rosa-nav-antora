@@ -1,2 +1,0 @@
-.Backing up and restoring applications
-* xref:backing-up-applications.adoc[Installing OADP on ROSA with STS]

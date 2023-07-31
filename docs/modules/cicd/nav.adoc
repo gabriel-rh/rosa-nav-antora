@@ -1,3 +1,0 @@
-.CI/CD
-* Builds
-** xref:builds/setting-up-trusted-ca.adoc[Setting up additional trusted certificate authorities for builds]

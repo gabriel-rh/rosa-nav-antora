@@ -1,3 +1,0 @@
-= Secured routes
-
-Blah blah 

@@ -1,3 +1,0 @@
-.Authentication and authorization
-* xref:assuming-an-aws-iam-role-for-a-service-account.adoc[Assuming an AWS IAM role for a service account]
-* xref:managing-security-context-constraints.adoc[Managing security context constraints]

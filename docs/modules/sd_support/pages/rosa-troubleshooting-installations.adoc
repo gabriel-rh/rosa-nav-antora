@@ -1,3 +1,0 @@
-= Troubleshooting installations
-
-Blah blah 

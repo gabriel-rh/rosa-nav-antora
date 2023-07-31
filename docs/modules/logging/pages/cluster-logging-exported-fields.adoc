@@ -1,3 +1,0 @@
-= Exported fields
-
-Blah blah 

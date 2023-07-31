@@ -1,3 +1,0 @@
-= Dynamic provisioning
-
-Blah blah 

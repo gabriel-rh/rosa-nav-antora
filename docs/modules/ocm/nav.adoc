@@ -1,2 +1,0 @@
-.Red Hat OpenShift Cluster Manager
-* xref:ocm-overview.adoc[Red Hat OpenShift Cluster Manager]

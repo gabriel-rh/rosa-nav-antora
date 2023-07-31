@@ -1,3 +1,0 @@
-= Configuring tkn
-
-Blah blah 

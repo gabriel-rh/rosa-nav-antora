@@ -1,3 +1,0 @@
-.Add-on services
-* xref:adding-service.adoc[Adding services to a cluster]
-* xref:rosa-available-services.adoc[Available services]
